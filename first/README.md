@@ -8,6 +8,6 @@ Now Once You Have Registered For New User You Can Use Your Credentials To Login 
 
 Now If You Wish To Apply For Loan The Sytem Will Show You The Procedure To Take The Loan And You Will Redirect Automatically To The Loan Section Of Code Where You Can Make A Choice For Taking Loan Then System Will Check For You Have Been Taken Loan Already Or Not And Based On Your Previous Transaction It Will Acknowledge You About To Give Loan Or Not.If Your Total Of Loan Amount Exceeds The Bank Loan Policy Limit Your Transaction Will Be Discarded And You Will Be Redirect To The Login Page Again
 
-Note:-So This app is approch in which code is simple, short and easy to understand with minimalistic numbers of lines. the beckend mechanism followed by the code is PANDAS as i am studing data science using this library the data handling and modifiacation has done easily.
+Note:-So This App Is An Simpler Approch To The Code ,short and easy to understand with minimalistic numbers of lines. The beckend Mechanism followed By The Code Is PANDAS as I Am Currently Lerning Data Science ,This library Offer Great Range OF Commands Over Full Advantages By Which data handling ,modifiacation,And Manupulation Can Be Done In Easier Way.
 
-i know the above explanation is to childish for any IT guyv but this is me in my own way to represent documenatation so easily that even a non-tech guy get an idea about what mechanism is used and what is happeing behind this app.
+I Know The Above Explanation Is To Childish For any IT guy .But This Is Me And Its My Way To Represent Documenatation So Easily That Even a Non-Tech Guy Gets An Basic Idea About What Actually Happening In Backend And How The Mechanism Is Implemented.
