@@ -1,5 +1,5 @@
 # First
-First Is An CLI-Based Banking Application Develop With Python With Pandas
+First Is An CLI-Based Banking Application Develop With Python & Pandas
 ![First](https://i.dlpng.com/static/png/6774220_preview.png)
 
 
